@@ -27,23 +27,6 @@ header {
   width: 50%;
   margin: 0 auto;
 }
-header ul {
-  display: flex;
-  list-style: none;
-  margin-right: 56px;
-}
-header li {
-  margin-left: 32px;
-  line-height: 56px;
-}
-header li a {
-  color: #5a4944;
-  font-size: 1rem;
-  display: block;
-}
-header li:hover {
-  cursor: pointer!important;
-}
 /*トップ*/
 .top {
   text-align: center;
